@@ -1,0 +1,26 @@
+{
+  "globalInfo":
+      {
+        "appId":"00",
+        "version":"2.0",
+        "userName":"p0000008",
+        "passWord":"0865262050C1sXjvqklyGlV6vYmqtk5w==",
+        "taxpayerId":"APP000000000001",
+        "enterpriseCode":"app00001",
+        "dataExchangeId":"app0000120170103wss000001"
+      },
+  "returnStateInfo":
+        {
+          "returnCode":"",
+          "returnMessage":""
+        },
+  "data":
+     {
+        "dataDescription":
+        {
+         "zipCode":"0",
+        "encryptCode":"0"
+        },
+     "content": "eyJhcHBpZCI6IjY1NDMyNDEyMjMiLCJkZGgiOiJ0ZXN0MTExMTIyMjIzMzMzNDQ0NCIsImxzaCI6IjQzNDEzNDE0NDEyMTU2NDM0MTIzIiwibnNyc2JoIjoiMTEwMTA2MTk4ODA4MDEyNzEzIiwiZnBkbSI6IjExMTIyMjA1NTU2OSIsImZwaG0iOiI1NjQyMTU0MSIsImFwcFR5cGUiOiIwIiwiZ3JhbnRUeXBlIjoiMCJ9"
+     }
+}

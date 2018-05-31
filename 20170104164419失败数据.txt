@@ -1,0 +1,11 @@
+报文路径为 ：C:\Users\cch\Desktop\新建文件夹\1_FAIL.json
+返回信息为 ：数据正常!
+返回代码为 ：0000
+预期结果为 ：FAIL
+发送内层报文内容为 ：
+{"appid":"r5432412231111111112","ddh":"testlichen2233334463","lsh":"test1253260104164419","nsrsbh":"150001205010278267","fpdm":"161117103933","fphm":"10872725","appType":"0","grantType":"0"}
+发送外层报文内容为 ：
+{"globalInfo":{"appId":"00","version":"2.0","userName":"p0000008","passWord":"0865262050C1sXjvqklyGlV6vYmqtk5w==","taxpayerId":"APP000000000001","enterpriseCode":"app00001","dataExchangeId":"test123100620170104164419"},"returnStateInfo":{"returnCode":"","returnMessage":""},"data":{"dataDescription":{"zipCode":"0","encryptCode":"0"},"content":"eyJhcHBpZCI6InI1NDMyNDEyMjMxMTExMTExMTEyIiwiZGRoIjoidGVzdGxpY2hlbjIyMzMzMzQ0NjMiLCJsc2giOiJ0ZXN0MTI1MzI2MDEwNDE2NDQxOSIsIm5zcnNiaCI6IjE1MDAwMTIwNTAxMDI3ODI2NyIsImZwZG0iOiIxNjExMTcxMDM5MzMiLCJmcGhtIjoiMTA4NzI3MjUiLCJhcHBUeXBlIjoiMCIsImdyYW50VHlwZSI6IjAifQ=="}}
+返回报文内容为 ：
+{"data":{"dataDescription":{"zipCode":"0","encryptCode":"0"},"content":""},"globalInfo":{"appId":"00","version":"2.0","userName":"p0000008","passWord":"0865262050C1sXjvqklyGlV6vYmqtk5w==","taxpayerId":"APP000000000001","enterpriseCode":"app00001","dataExchangeId":"test123100620170104164419"},"returnStateInfo":{"returnCode":"0000","returnMessage":"数据正常!"}}
+************************************************************************************************************************************************************
